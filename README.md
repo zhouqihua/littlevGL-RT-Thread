@@ -127,4 +127,9 @@ msh >
 
 维护人:
 
-- [guozhanxin](https://github.com/Guozhanxin) # littlevGL-RT-Thread
+- [guozhanxin](https://github.com/Guozhanxin) 
+
+## littlevGL-RT-Thread
+
+- [zhouqihua](https://github.com/zhouqihua)
+
